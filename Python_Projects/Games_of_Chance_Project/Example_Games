@@ -1,0 +1,89 @@
+Last login: Mon May 25 23:19:42 on ttys000
+(base) Spas-MacBook-Pro:~ sgetov$ python
+Python 3.7.6 (default, Jan  8 2020, 13:42:34) 
+[Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import random
+
+(base) Spas-MacBook-Pro:~ sgetov$ cd Documents/My\ Admin/New\ Roads/Software\ Development/Code\ Academy\ Data\ Science/Learn\ Python/Games\ of\ Chance\ Project/
+
+
+(base) Spas-MacBook-Pro:Games of Chance Project sgetov$ python Game_Solutions.py
+Coin toss game...
+Please guess a coin toss: 1 for heads, 2 for tails: 1
+Please decide how much to bet in whole pounds (up to amount you have available): 20
+The random coin toss returned 1 (1 = heads; 2 = tails)
+You called heads and the toss was also heads
+You have won £20
+You now have £120
+Cho Han dice game...
+Please guess the total dice roll: 1 for odd, 0 for even: 1
+Please decide how much to bet in whole pounds (up to amount you have available): 10
+The random roll of two dice returned 2
+You called odd but the total roll was 2 (even)
+You have lost £10
+You now have £110
+Card game...
+Please decide how much to bet in whole pounds (up to amount you have available): 40
+Cards are initially numbered from hearts (Two = 1 and Ace = 13), to spades (Two = 14 and Ace = 26), to clubs (Two = 27 and Ace = 39), to diamonds (Two = 40 and Ace = 52)
+Cards are then valued irrespective of suit as 1 (a Two) to 13 (an Ace)
+The card picked by player one (you) is 41. Card vaule is 2
+These are all the cards after player one has picked: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]
+The card picked by player two (your opponent) is 10. Card vaule is 10
+Your card had the value of 2 and the other player's card had the value of 10
+You have lost £40
+You now have £70
+Roulette roll...
+Please guess the roulette outcome: 0 for zero, 37 for double zero, 1-36 for exact number, 38 for even, 39 for odd): 30
+Please decide how much to bet in whole pounds (up to amount you have available): 30
+This is the number generated for the roulette roll: 7 (37 is 00)
+You have lost since 7 has come up and you guessed 30
+You now have £40
+(base) Spas-MacBook-Pro:Games of Chance Project sgetov$ python Game_Solutions.py
+Coin toss game...
+Please guess a coin toss: 1 for heads, 2 for tails: 6
+Invalid input. The guess must be either 1 (heads) or 2 (tails)! Try again
+Please guess a coin toss: 1 for heads, 2 for tails: 1
+Please decide how much to bet in whole pounds (up to amount you have available): 160
+Invalid input. You cannot bet more money than you have and you cannot bet a negative value! Try again
+Please decide how much to bet in whole pounds (up to amount you have available): -20
+Invalid input. You cannot bet more money than you have and you cannot bet a negative value! Try again
+Please decide how much to bet in whole pounds (up to amount you have available): 30
+The random coin toss returned 1 (1 = heads; 2 = tails)
+You called heads and the toss was also heads
+You have won £30
+You now have £130
+Cho Han dice game...
+Please guess the total dice roll: 1 for odd, 0 for even: 2
+Invalid input. The guess must be either 1 (odd) or 0 (even)! Try again
+Please guess the total dice roll: 1 for odd, 0 for even: 1
+Please decide how much to bet in whole pounds (up to amount you have available): 400
+Invalid input. You cannot bet more money than you have and you cannot bet a negative value! Try again
+Please decide how much to bet in whole pounds (up to amount you have available): 100
+The random roll of two dice returned 6
+You called odd but the total roll was 6 (even)
+You have lost £100
+You now have £30
+Card game...
+Please decide how much to bet in whole pounds (up to amount you have available): 35
+Invalid input. You cannot bet more money than you have and you cannot bet a negative value! Try again
+Please decide how much to bet in whole pounds (up to amount you have available): 30
+Cards are initially numbered from hearts (Two = 1 and Ace = 13), to spades (Two = 14 and Ace = 26), to clubs (Two = 27 and Ace = 39), to diamonds (Two = 40 and Ace = 52)
+Cards are then valued irrespective of suit as 1 (a Two) to 13 (an Ace)
+The card picked by player one (you) is 25. Card vaule is 12
+These are all the cards after player one has picked: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]
+The card picked by player two (your opponent) is 32. Card vaule is 6
+Your card had the value of 12 and the other player's card had the value of 6
+You have won £30
+You now have £60
+Roulette roll...
+Please guess the roulette outcome: 0 for zero, 37 for double zero, 1-36 for exact number, 38 for even, 39 for odd): 55
+Invalid input. The guess must be either 0 (zero), 37 (double zero), 1-36 (exact number), 38 (even) or 39 (odd)! Try again
+Please guess the roulette outcome: 0 for zero, 37 for double zero, 1-36 for exact number, 38 for even, 39 for odd): 37
+Please decide how much to bet in whole pounds (up to amount you have available): 70
+Invalid input. You cannot bet more money than you have and you cannot bet a negative value! Try again
+Please decide how much to bet in whole pounds (up to amount you have available): 60
+This is the number generated for the roulette roll: 8 (37 is 00)
+You have lost since 8 has come up and you guessed 37
+You now have £0
+(base) Spas-MacBook-Pro:Games of Chance Project sgetov$ 
