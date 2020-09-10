@@ -1,0 +1,205 @@
+#This is the output of this project
+
+user_id          visit_time
+0  943647ef-3682-4750-a2e1-918ba6f16188 2017-04-07 15:14:00
+1  0c3a3dd0-fb64-4eac-bf84-ba069ce409f2 2017-01-26 14:24:00
+2  6e0b2d60-4027-4d9a-babd-0e7d40859fb1 2017-08-20 08:23:00
+3  6879527e-c5a6-4d14-b2da-50b85212b0ab 2017-11-04 18:15:00
+4  a84327ff-5daa-4ba1-b789-d5b4caf81e96 2017-02-27 11:25:00
+5  7bc62113-d51d-4e6b-85e0-1cf29e3de74a 2017-06-03 20:05:00
+6  6f22cd44-bc63-4449-a9af-2651859da2f9 2017-03-18 23:09:00
+7  49a6399b-c095-4e42-92eb-af90abe2bb6a 2017-01-10 12:09:00
+8  653c095d-fd74-40dd-ae3b-5a69a2613629 2017-06-27 19:21:00
+9  3d9fdac1-aae3-4a01-b448-934d12047468 2017-09-24 06:43:00
+
+         user_id           cart_time
+0  2be90e7c-9cca-44e0-bcc5-124b945ff168 2017-11-07 20:45:00
+1  4397f73f-1da3-4ab3-91af-762792e25973 2017-05-27 01:35:00
+2  a9db3d4b-0a0a-4398-a55a-ebb2c7adf663 2017-03-04 10:38:00
+3  b594862a-36c5-47d5-b818-6e9512b939b3 2017-09-27 08:22:00
+4  a68a16e2-94f0-4ce8-8ce3-784af0bbb974 2017-07-26 15:48:00
+5  0c998868-9961-490b-8ec2-9981ba667027 2017-11-27 08:54:00
+6  f783c680-1d9a-437d-9f45-7827299b78fa 2017-06-25 08:08:00
+7  f3dd7631-3cf6-4d49-9c6e-b48eda4432b5 2017-01-04 09:57:00
+8  4cdd357a-199e-4d81-ae9e-7252fa34ee0f 2017-05-23 22:25:00
+9  3c3460b3-a56d-4d92-908d-29dcca34db18 2017-01-06 14:56:00
+
+         user_id       checkout_time
+0  d33bdc47-4afa-45bc-b4e4-dbe948e34c0d 2017-06-25 09:29:00
+1  4ac186f0-9954-4fea-8a27-c081e428e34e 2017-04-07 20:11:00
+2  3c9c78a7-124a-4b77-8d2e-e1926e011e7d 2017-07-13 11:38:00
+3  89fe330a-8966-4756-8f7c-3bdbcd47279a 2017-04-20 16:15:00
+4  3ccdaf69-2d30-40de-b083-51372881aedd 2017-01-08 20:52:00
+5  a25aad6a-55af-4ddc-92d1-e8c58f855329 2017-01-05 20:07:00
+6  3327f8fb-c5a0-421e-a0d1-fb619b79ab45 2017-08-17 04:20:00
+7  9c3ea739-7968-429c-87f6-f213ef7b9fcb 2017-04-16 21:22:00
+8  cb3ad392-baeb-4e28-a673-eaaf4bac68a4 2017-04-10 21:09:00
+9  fc3bd8b7-4ce7-4c46-90a7-373d0a8a3e00 2017-10-03 16:53:00
+
+         user_id       purchase_time
+0  4b44ace4-2721-47a0-b24b-15fbfa2abf85 2017-05-11 04:25:00
+1  02e684ae-a448-408f-a9ff-dcb4a5c99aac 2017-09-05 08:45:00
+2  4b4bc391-749e-4b90-ab8f-4f6e3c84d6dc 2017-11-20 20:49:00
+3  a5dbb25f-3c36-4103-9030-9f7c6241cd8d 2017-01-22 15:18:00
+4  46a3186d-7f5a-4ab9-87af-84d05bfd4867 2017-06-11 11:32:00
+5  5ae833dc-8866-4baa-9617-2009d6474ffa 2017-07-26 16:46:00
+6  70688015-a755-4b8a-a963-3528d85c8048 2017-09-24 08:05:00
+7  c504ff0d-eefe-472b-826c-471142311857 2017-05-02 07:56:00
+8  99ad37b5-30b1-4a06-ad47-d9d2d60cdb07 2017-02-20 11:11:00
+9  4b44ace4-2721-47a0-b24b-15fbfa2abf85 2017-05-11 04:18:00
+
+         user_id          visit_time  \
+0  943647ef-3682-4750-a2e1-918ba6f16188 2017-04-07 15:14:00
+1  0c3a3dd0-fb64-4eac-bf84-ba069ce409f2 2017-01-26 14:24:00
+2  6e0b2d60-4027-4d9a-babd-0e7d40859fb1 2017-08-20 08:23:00
+3  6e0b2d60-4027-4d9a-babd-0e7d40859fb1 2017-08-20 08:23:00
+4  6879527e-c5a6-4d14-b2da-50b85212b0ab 2017-11-04 18:15:00
+5  a84327ff-5daa-4ba1-b789-d5b4caf81e96 2017-02-27 11:25:00
+6  7bc62113-d51d-4e6b-85e0-1cf29e3de74a 2017-06-03 20:05:00
+7  6f22cd44-bc63-4449-a9af-2651859da2f9 2017-03-18 23:09:00
+8  49a6399b-c095-4e42-92eb-af90abe2bb6a 2017-01-10 12:09:00
+9  653c095d-fd74-40dd-ae3b-5a69a2613629 2017-06-27 19:21:00
+
+cart_time
+0                 NaT
+1 2017-01-26 14:44:00
+2 2017-08-20 08:31:00
+3 2017-08-20 08:49:00
+4                 NaT
+5                 NaT
+6                 NaT
+7                 NaT
+8                 NaT
+9                 NaT
+
+The length of the merged visits and cart table in rows is 2052
+the number of visits that did not proceed to the cart is 1652
+the percentage of visits who did not proceed to cart is 80.5068226121
+
+         user_id           cart_time  \
+0  2be90e7c-9cca-44e0-bcc5-124b945ff168 2017-11-07 20:45:00
+1  2be90e7c-9cca-44e0-bcc5-124b945ff168 2017-11-07 20:45:00
+2  2be90e7c-9cca-44e0-bcc5-124b945ff168 2017-11-07 20:45:00
+3  4397f73f-1da3-4ab3-91af-762792e25973 2017-05-27 01:35:00
+4  a9db3d4b-0a0a-4398-a55a-ebb2c7adf663 2017-03-04 10:38:00
+5  b594862a-36c5-47d5-b818-6e9512b939b3 2017-09-27 08:22:00
+6  a68a16e2-94f0-4ce8-8ce3-784af0bbb974 2017-07-26 15:48:00
+7  0c998868-9961-490b-8ec2-9981ba667027 2017-11-27 08:54:00
+8  f783c680-1d9a-437d-9f45-7827299b78fa 2017-06-25 08:08:00
+9  f783c680-1d9a-437d-9f45-7827299b78fa 2017-06-25 08:08:00
+
+checkout_time
+0 2017-11-07 21:14:00
+1 2017-11-07 20:50:00
+2 2017-11-07 21:11:00
+3                 NaT
+4 2017-03-04 11:04:00
+5 2017-09-27 08:26:00
+6                 NaT
+7 2017-11-27 09:18:00
+8 2017-06-25 08:28:00
+9 2017-06-25 08:27:00
+
+The length of the merged cart and checkout table in rows is 602
+the number of carts that did not proceed to checkout is 126
+the percentage of carts who did not proceed to checkout is 20.9302325581
+
+          user_id          visit_time  \
+0   943647ef-3682-4750-a2e1-918ba6f16188 2017-04-07 15:14:00
+1   0c3a3dd0-fb64-4eac-bf84-ba069ce409f2 2017-01-26 14:24:00
+2   6e0b2d60-4027-4d9a-babd-0e7d40859fb1 2017-08-20 08:23:00
+3   6e0b2d60-4027-4d9a-babd-0e7d40859fb1 2017-08-20 08:23:00
+4   6879527e-c5a6-4d14-b2da-50b85212b0ab 2017-11-04 18:15:00
+5   a84327ff-5daa-4ba1-b789-d5b4caf81e96 2017-02-27 11:25:00
+6   7bc62113-d51d-4e6b-85e0-1cf29e3de74a 2017-06-03 20:05:00
+7   6f22cd44-bc63-4449-a9af-2651859da2f9 2017-03-18 23:09:00
+8   49a6399b-c095-4e42-92eb-af90abe2bb6a 2017-01-10 12:09:00
+9   653c095d-fd74-40dd-ae3b-5a69a2613629 2017-06-27 19:21:00
+10  3d9fdac1-aae3-4a01-b448-934d12047468 2017-09-24 06:43:00
+11  1955acc9-5228-4277-beed-fd23f0f355b3 2017-04-20 23:01:00
+12  a627ba57-b34d-4166-8b78-1ff3f46f5478 2017-08-11 13:41:00
+13  10d5a3e0-1d72-4bea-9670-f0f0234d6e48 2017-02-26 10:09:00
+14  0c1fa5fe-27c1-4e1f-b353-26a428da2832 2017-07-04 09:56:00
+15  486480e2-98c3-4d51-8f4b-b1c07228ce84 2017-01-27 16:34:00
+16  2f954f3f-e621-4be2-9d3f-e9dc8afe38dd 2017-10-19 03:22:00
+17  7a3030d1-37a4-4ed1-a410-84f50f991903 2017-09-05 18:27:00
+18  d8b14a61-cc64-4e56-be6e-cd8d3b35eece 2017-08-22 15:55:00
+19  a9e73e1a-0fd1-4514-b163-03a76a216069 2017-04-02 06:40:00
+20  335fe581-92e1-4f3c-a5f4-2600f50007a9 2017-11-08 14:39:00
+21  50840100-eccb-44f7-b3f1-c7a108456603 2017-09-27 10:17:00
+22  d1e1de15-8eda-4b63-a584-5d205d32544e 2017-02-16 22:10:00
+23  0a761369-3fed-4eb9-a14a-dd4e0f0e1741 2017-02-03 15:31:00
+24  c190b70e-ff9f-4e76-bfb9-eb9a5e54a7e7 2017-08-11 09:27:00
+25  c02a4dbb-8e6e-4296-b73b-4e8896f7ab35 2017-05-13 11:25:00
+26  d798d0a0-cf1a-4f08-aec8-454d60ef8330 2017-11-11 14:49:00
+27  38a610b6-3734-448a-a352-531c7a7a55e8 2017-07-23 23:05:00
+28  b5e01ff4-73dc-4e02-ab93-a635918099c6 2017-07-26 18:07:00
+29  5b64bd11-749b-42bf-abe8-babddfa1c085 2017-07-25 07:03:00
+
+cart_time       checkout_time       purchase_time
+0                  NaT                 NaT                 NaT
+1  2017-01-26 14:44:00 2017-01-26 14:54:00 2017-01-26 15:08:00
+2  2017-08-20 08:31:00                 NaT                 NaT
+3  2017-08-20 08:49:00                 NaT                 NaT
+4                  NaT                 NaT                 NaT
+5                  NaT                 NaT                 NaT
+6                  NaT                 NaT                 NaT
+7                  NaT                 NaT                 NaT
+8                  NaT                 NaT                 NaT
+9                  NaT                 NaT                 NaT
+10                 NaT                 NaT                 NaT
+11                 NaT                 NaT                 NaT
+12                 NaT                 NaT                 NaT
+13                 NaT                 NaT                 NaT
+14                 NaT                 NaT                 NaT
+15 2017-01-27 16:44:00 2017-01-27 17:10:00 2017-01-27 17:12:00
+16                 NaT                 NaT                 NaT
+17                 NaT                 NaT                 NaT
+18                 NaT                 NaT                 NaT
+19                 NaT                 NaT                 NaT
+20                 NaT                 NaT                 NaT
+21                 NaT                 NaT                 NaT
+22                 NaT                 NaT                 NaT
+23                 NaT                 NaT                 NaT
+24                 NaT                 NaT                 NaT
+25                 NaT                 NaT                 NaT
+26                 NaT                 NaT                 NaT
+27                 NaT                 NaT                 NaT
+28                 NaT                 NaT                 NaT
+29                 NaT                 NaT                 NaT
+
+The number of people who visited the site is 2594
+The number of people who visit the website but place nothing in the cart is 1652
+The percentage of people who visit the website but place nothing in the cart is 63.6854279106
+The number of people who proceed to the cart is 942
+The number of people who place something in the cart but do not checkout is 126
+The percentage of people who place something in the cart but do not checkout is 13.3757961783
+The number of people who proceed to the checkout is 816
+The number of people who proceed to the checkout but do not make a purchase is 120
+The percentage of people who proceed to the checkout but do not make a purchase is 14.7058823529
+
+         user_id          visit_time  \
+0  943647ef-3682-4750-a2e1-918ba6f16188 2017-04-07 15:14:00
+1  0c3a3dd0-fb64-4eac-bf84-ba069ce409f2 2017-01-26 14:24:00
+2  6e0b2d60-4027-4d9a-babd-0e7d40859fb1 2017-08-20 08:23:00
+3  6e0b2d60-4027-4d9a-babd-0e7d40859fb1 2017-08-20 08:23:00
+4  6879527e-c5a6-4d14-b2da-50b85212b0ab 2017-11-04 18:15:00
+5  a84327ff-5daa-4ba1-b789-d5b4caf81e96 2017-02-27 11:25:00
+6  7bc62113-d51d-4e6b-85e0-1cf29e3de74a 2017-06-03 20:05:00
+7  6f22cd44-bc63-4449-a9af-2651859da2f9 2017-03-18 23:09:00
+8  49a6399b-c095-4e42-92eb-af90abe2bb6a 2017-01-10 12:09:00
+9  653c095d-fd74-40dd-ae3b-5a69a2613629 2017-06-27 19:21:00
+
+cart_time       checkout_time       purchase_time time_to_purchase
+0                 NaT                 NaT                 NaT              NaT
+1 2017-01-26 14:44:00 2017-01-26 14:54:00 2017-01-26 15:08:00         00:44:00
+2 2017-08-20 08:31:00                 NaT                 NaT              NaT
+3 2017-08-20 08:49:00                 NaT                 NaT              NaT
+4                 NaT                 NaT                 NaT              NaT
+5                 NaT                 NaT                 NaT              NaT
+6                 NaT                 NaT                 NaT              NaT
+7                 NaT                 NaT                 NaT              NaT
+8                 NaT                 NaT                 NaT              NaT
+9                 NaT                 NaT                 NaT              NaT
+
+The mean time from site visit to purchase is 0 days 00:44:02.672413
