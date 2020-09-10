@@ -1,4 +1,9 @@
-#This is all my working (I did this on the Codecademy platform)
+#This project uses aggregate measures in Pandas to determine which of two versions of an ad
+#for shoes is more effective. The ads have been placed in emails or as banner ads on several
+#websites. Performance on specific days of the week is compared.
+
+
+#Below is all my working (I did this on the Codecademy platform)
 
 import codecademylib
 import pandas as pd
