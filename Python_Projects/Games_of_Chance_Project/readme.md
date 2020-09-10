@@ -1,0 +1,1 @@
+Functions for several games of chance (eg rolling a dice, picking a card), where the player can bet on the outcome and win or lose money, have been created in Python. One file contains the source code and one file contains examples of how the games are played.
