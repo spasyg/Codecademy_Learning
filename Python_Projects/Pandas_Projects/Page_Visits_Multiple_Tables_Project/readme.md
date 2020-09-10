@@ -1,0 +1,2 @@
+This project explores data from the Fifa World Cup from 1930-2014 to analyze trends. The data is from Kaggle, a platform for data science competitions
+that hosts many datasets online. A series of plots are created using Seaborn to explore aggregates and distribution across the goals scored in World Cup games.
