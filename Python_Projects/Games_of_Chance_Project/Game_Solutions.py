@@ -3,7 +3,7 @@ import random
 money = 100
 
 
-#Write your game of chance functions here
+#Several functions written in Python to run different games of chance:
 
 # 1. Tossing a coin
 
